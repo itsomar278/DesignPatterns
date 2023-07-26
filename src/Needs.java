@@ -1,3 +1,3 @@
 public enum Needs {
-    Gaming , OfficeWork , VideoEditing , Programming
+    Gaming , OfficeWork , VideoEditing , Simulations, Streaming, Programming
 }
