@@ -16,7 +16,7 @@ public class Normallaptop extends Laptop {
 
     @Override
     void setValues() {
-this.CPU = "Intel i7";
+        this.CPU = "Intel i7";
         this.GPU = "GTX 1660 TI";
         this.Ram = 16;
     }
